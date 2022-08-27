@@ -1,4 +1,5 @@
 
+// l have to retype this with my own lines of codes
 
 let hr = document.querySelector('#hr');
 let mn = document.querySelector('#mn');
